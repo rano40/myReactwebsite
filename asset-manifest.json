@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/myReactwebsite/static/css/main.28e2a6aa.css",
+    "main.js": "/myReactwebsite/static/js/main.9c74fa9a.js",
+    "static/media/Service6.jpg": "/myReactwebsite/static/media/Service6.16f83d705e5a3522f829.jpg",
+    "static/media/Service2.jpg": "/myReactwebsite/static/media/Service2.36582991d2a2e6f90016.jpg",
+    "static/media/Service1.jpg": "/myReactwebsite/static/media/Service1.9f9f53ba70a5e56cda24.jpg",
+    "static/media/Service3.png": "/myReactwebsite/static/media/Service3.e6927539d1a9ab89a10d.png",
+    "static/media/Home.png": "/myReactwebsite/static/media/Home.b22d35f6313fde7633b7.png",
+    "static/media/Service4.png": "/myReactwebsite/static/media/Service4.255710f73dfee0ff60e1.png",
+    "static/media/Hero_Img.svg": "/myReactwebsite/static/media/Hero_Img.b84621a4721ac21d433a4efd42c809de.svg",
+    "static/media/Service5.svg": "/myReactwebsite/static/media/Service5.3b7bea5973fe48958c0ad289b2a9b9c3.svg",
+    "index.html": "/myReactwebsite/index.html",
+    "main.28e2a6aa.css.map": "/myReactwebsite/static/css/main.28e2a6aa.css.map",
+    "main.9c74fa9a.js.map": "/myReactwebsite/static/js/main.9c74fa9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28e2a6aa.css",
+    "static/js/main.9c74fa9a.js"
+  ]
+}
